@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    VyomShah -- Software Engineer -- Vyom_Shah
 
 # THANKS
 
