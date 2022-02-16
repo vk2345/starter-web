@@ -8,7 +8,7 @@ Sample website with plenty of files for demos
 
 ##Copyright
 
-It is a copyright notice
+It is a copyright notice.All rights reserved
 Add Lien
 
 More Changes
